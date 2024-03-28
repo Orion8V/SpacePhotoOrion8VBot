@@ -1,0 +1,5 @@
+В Телеграм: найти BotFather > /setcommands > @SpacePhotoOrion8VBot >
+
+help - Помощь
+start - Старт
+photo - Фото
