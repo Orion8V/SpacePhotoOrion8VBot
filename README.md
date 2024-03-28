@@ -3,10 +3,4 @@
 
 Работает через NASA Open APIs.
 
-
-
-ПО:
-
-JDK 21.0.2
-
-Apache NetBeans IDE 21
+ПО: JDK 21.0.2, Apache NetBeans IDE 21
